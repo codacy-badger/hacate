@@ -1,4 +1,4 @@
-# hacate
+# Hacate
 
 ## description
 Hacate is a police scanner applicaition that utilizes speech recongition in order to identify and classify crimes in a certain region or city
