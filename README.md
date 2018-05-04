@@ -6,4 +6,4 @@ Hacate is built using Python3 and uses Broadcastify API for the live active poli
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the License.md file for details
